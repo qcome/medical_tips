@@ -1,0 +1,15 @@
+{
+  "symptomes": {
+    "generaux": ["fièvre", "fatigue", "perte de poids", "gain de poids", "frissons", "sueurs nocturnes"],
+    "peau": ["éruption", "démangeaison", "jaunisse", "pâleur", "rougeur", "bleus", "gonflement","tache"],
+    "neurologiques": ["maux de tête", "vertiges", "engourdissement", "tremblements", "convulsions", "perte de conscience", "troubles de la mémoire"],
+    "cardiovasculaires": ["douleur thoracique", "palpitations", "essoufflement", "œdème"],
+    "respiratoires": ["toux", "essoufflement", "douleur en respirant", "respiration sifflante"],
+    "digestifs": ["nausées", "vomissements", "diarrhée", "constipation", "douleur abdominale", "saignement rectal", "jaunisse"],
+    "urologiques": ["difficulté à uriner", "douleur en urinant", "changements dans la fréquence urinaire", "incontinence", "sang dans l'urine"],
+    "reproducteurs": ["douleurs pelviennes", "écoulements inhabituels", "irrégularités menstruelles", "dysfonction érectile"],
+    "musculo-squelettiques": ["douleurs articulaires", "faiblesse musculaire", "raideur", "enflure des articulations"],
+    "psychologiques": ["anxiété", "dépression", "troubles du sommeil", "altérations de l'humeur"],
+    "oculaires": ["vision floue", "douleur oculaire", "rougeur des yeux", "perte de vision"]
+  }
+}

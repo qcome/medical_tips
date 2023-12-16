@@ -1,0 +1,11 @@
+{
+  "parties_du_corps": {
+    "tete": ["cerveau", "yeux", "oreilles", "nez", "bouche", "langue", "dents", "gorge", "glande thyroide"],
+    "tronc": ["coeur", "poumons", "foie", "pancreas", "estomac", "intestins", "rein", "vessie", "glandes surrenales"],
+    "membres_superieurs": ["epaules", "bras", "coudes", "avant-bras", "poignets", "mains", "doigts"],
+    "membres_inferieurs": ["hanches", "cuisses", "genoux", "jambes", "chevilles", "pieds", "orteils"],
+    "systeme_reproducteur": ["organes genitaux masculins", "organes genitaux feminins"],
+    "systeme_endocrinien": ["hypophyse", "glandes parathyroides", "thymus", "glandes sexuelles"],
+    "systeme_lymphatique": ["ganglions lymphatiques", "moelle osseuse", "rate"]
+  }
+}

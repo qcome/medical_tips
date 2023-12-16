@@ -1,0 +1,15 @@
+{
+  "systemes_du_corps": {
+    "squelettique": ["os", "articulations", "ligaments", "cartilages"],
+    "musculaire": ["muscles", "tendons"],
+    "circulatoire": ["cœur", "vaisseaux sanguins", "sang"],
+    "nerveux": ["cerveau", "moelle épinière", "nerfs"],
+    "respiratoire": ["poumons", "trachée", "bronches", "diaphragme"],
+    "digestif": ["bouche", "œsophage", "estomac", "intestin grêle", "gros intestin", "foie", "pancréas", "vésicule biliaire"],
+    "urinaire": ["reins", "uretères", "vessie", "urètre"],
+    "reproducteur": ["organes génitaux externes", "organes génitaux internes"],
+    "endocrinien": ["glandes endocrines", "hormones"],
+    "lymphatique": ["ganglions lymphatiques", "vaisseaux lymphatiques", "moelle osseuse", "rate", "thymus"],
+    "tégumentaire": ["peau", "cheveux", "ongles", "glandes sudoripares", "glandes sébacées"]
+  }
+}
